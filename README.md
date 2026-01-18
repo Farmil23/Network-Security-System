@@ -1,8 +1,4 @@
-Tentu, ini adalah draf **README.md** untuk repositori **Network Security** Anda. Dokumen ini disesuaikan dengan struktur modular yang terlihat (fokus pada fondasi *logging*, *exception handling*, dan *setup* paket) serta menyertakan identitas Anda sesuai permintaan.
 
----
-
-```markdown
 # 🛡️ Network Security System
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
